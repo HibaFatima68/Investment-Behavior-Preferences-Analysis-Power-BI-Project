@@ -1,0 +1,2 @@
+# Investment-Behavior-Preferences-Analysis-Power-BI-Project
+A Business Intelligence project analyzing investment behavior of 40 investors using a survey dataset. The project explores how age, gender, risk profile, and financial goals influence investment preferences across different financial products, using Power BI dashboards, statistical analysis, and data storytelling to generate actionable insights.
